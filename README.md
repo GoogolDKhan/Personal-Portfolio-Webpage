@@ -11,6 +11,6 @@
 
 ## Author
 
-- [@Sarfaraz](https://www.github.com/GoogolDKhan)
+- This project is forked from [FCC: Personal Portfolio](https://codepen.io/freeCodeCamp/full/zNBOYG)
 
 - Dated : 28-05-2021
