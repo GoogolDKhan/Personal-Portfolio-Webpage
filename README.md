@@ -1,4 +1,4 @@
-# Personal Portfolio Webpage [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/personal-portfolio/badge)](https://www.codefactor.io/repository/github/googoldkhan/personal-portfolio)
+# Personal Portfolio Webpage [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/personal-portfolio-webpage/badge)](https://www.codefactor.io/repository/github/googoldkhan/personal-portfolio-webpage)
 
 - Responsive Web Design
 
